@@ -49,13 +49,13 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/_ctzhid' // ig
-global.sgh = 'https://github.com/WH-MODS-BOT/' // github
-global.sgc = 'https://chat.whatsapp.com/FQkbyTEfvES3D363uxMEFOI' // group whatsapp
-global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
-global.sfb = 'https://www.facebook.com/' // facebook
-global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
+global.sig = 'https://www.instagram.com/invites/contact/?i=wfweuojh2alr&utm_content=cz6j9a2' // ig
+global.sgh = 'https://www.instagram.com/invites/contact/?i=wfweuojh2alr&utm_content=cz6j9a2' // github
+global.sgc = 'https://www.instagram.com/invites/contact/?i=wfweuojh2alr&utm_content=cz6j9a2' // group whatsapp
+global.sdc = 'https://www.instagram.com/invites/contact/?i=wfweuojh2alr&utm_content=cz6j9a2'//discord
+global.snh = 'https://www.instagram.com/invites/contact/?i=wfweuojh2alr&utm_content=cz6j9a2' // my youtube channel
+global.sfb = 'https://www.instagram.com/invites/contact/?i=wfweuojh2alr&utm_content=cz6j9a2' // facebook
+global.syt = 'https://www.instagram.com/invites/contact/?i=wfweuojh2alr&utm_content=cz6j9a2' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
 global.pdana = '08XXXXXXXXXX' //dana
@@ -67,10 +67,10 @@ global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '6282127487538'
-global.namebot = 'WH-MODS-BOT-V1'
-global.nameown = 'WH MODS DEV'
+global.nomorbot = '917044034367'
+global.nomorown = '917044034367'
+global.namebot = 'crush'
+global.nameown = 'sasuke'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'Nama Github Belum Diisi' // nama github lu
@@ -85,11 +85,11 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282127487538', 'WH MODS DEV', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true]
+  ['917044034367', 'WH MODS DEV', true],
+  ['-', 'sasuke', true],
+  ['-', 'sasuke', true],
+  ['-', 'sasuke', true],
+  ['-', 'sasuke', true]
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -138,9 +138,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 WH-MODS-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ WH-MODS-BOT-V1 '
+global.wm = '                「 SASUKE 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘SASUKE ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ SASUKE '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = 'sasuke'
+global.stickauth = `sasuke`
 
 global.multiplier = 38 // The higher, The harder levelup
 
